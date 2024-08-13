@@ -111,7 +111,7 @@ SP用のスタイル
     display: block;
   }
 
-  #nav-sp > a:lnk {
+  #nav-sp > a:link {
     color: #ffffff;
   }
 
